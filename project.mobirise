@@ -40,6 +40,13 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#fac51c",
+              "font-size": "60px"
+            },
+            ".lead P": {
+              "color": "#fac51c"
             }
           },
           "_tags": [
@@ -67,7 +74,7 @@
             "showButton": false
           },
           "title": "品居租房",
-          "text": "<p>品居让客户省心 省事 省钱搬进新家.</p>",
+          "text": "<p><b>品居让客户省心 省事 省钱搬进新家</b>.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -81,7 +88,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>品居租房网</b></p><p>品居租房以“全新的互联网房地产居间综合服务商”的概念出现，为客户提供租前精准信息、租后系统化的优质服务。比如：搬家、入住清洁、入住消毒、家电清洗消毒、家电租赁、代付租金等服务。</p><p><b>将是 有史以来 黏性最强的服务！</b></p><p><br></p><p>品居租房网专做房屋租赁，深挖租赁市场客户、业主需求，提供更完善的服务。品居租房竭尽全力做到居间方应承担的责任、应尽的义务、应提供的真实信息及优质服务。</p><p>未来随着消费者购房计划推迟，租房客户群体逐年增加，现在市场租赁又较为传统，只是提供信息而已，已经无法满足当代客户的服务需求。我们将练足基本功，为以后的庞大市场的客户提供更多元化服务。</p>"
+          "text": "<p><b>品居租房网</b></p><p>品居租房以“全新的互联网房地产居间综合服务商”的概念出现，为客户提供租前精准信息、租后系统化的优质服务。如：搬家、入住清洁、入住消毒、家电清洗消毒、家电租赁、代付租金等服务。</p><p><b><br></b></p><p><b>将是 有史以来 黏性最强的服务！</b></p><p><br></p><p>品居租房网专做房屋租赁，深挖租赁市场客户、业主需求，提供更完善的服务。品居租房竭尽全力做到居间方应承担的责任、应尽的义务、应提供的真实信息及优质服务。</p><p><br></p><p>未来随着消费者购房计划推迟，租房客户群体逐年增加，现在市场租赁又较为传统，只是提供信息而已，已经无法满足当代客户的服务需求。我们将练足基本功，为以后的庞大市场的客户提供更多元化服务。</p>"
         },
         {
           "_inherit": "testimonials2",
@@ -91,7 +98,7 @@
           "_name": "testimonials4",
           "testimonial": [
             {
-              "text": "<p>“房屋租赁信息服务 ”</p>",
+              "text": "<p>“房屋租赁服务 ”</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
@@ -105,7 +112,7 @@
               "authorBio": "User"
             },
             {
-              "text": "<p>“家电 清洗消毒 ”</p>",
+              "text": "<p>“房屋 家电清洁&nbsp; ”</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face1.jpg",
@@ -152,7 +159,7 @@
             "showTitle": true,
             "showSubtitle": false
           },
-          "title": "<font color=\"#000000\"><a href=\"http://https://pinjuchina.github.io/pinjuhuodong/\">品居租房网</a></font>",
+          "title": "<font color=\"#000000\">品居租房网</font>",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
@@ -188,7 +195,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>地址</strong><br><font color=\"#000000\">深圳市南山区蛇口沿山路43号</font><br><font color=\"#000000\">创业壹号大厦C座201</font><br><br><br><strong>联系方式</strong><br>\nE &nbsp; mail : pinjuvip@126..com<br><font color=\"#000000\">公 &nbsp;众 号</font>: pinjuvip_com<br><font color=\"#000000\">公司电话</font>: 0755-268 12340",
+          "text1": "<strong>地址</strong><br><font color=\"#000000\">深圳市南山区蛇口沿山路43号</font><br><font color=\"#000000\">创业壹号大厦C座201</font><br><br><br><strong>联系方式</strong><br>\nE &nbsp; mail : info@pinju.site<br><font color=\"#000000\">公 &nbsp;众 号</font>: pinjuvip_com<br><font color=\"#000000\">公司电话</font>: 0755-268 12340",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><br><li>www.pinjuvip.com</li><br></ul>",
           "form": {
             "title": "MESSAGE",

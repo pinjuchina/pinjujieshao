@@ -415,6 +415,13 @@ h6,
 #msg-box8-3 p {
   color: #fff;
 }
+#msg-box8-3 .mbr-section-title {
+  color: #fac51c;
+  font-size: 60px;
+}
+#msg-box8-3 .lead P {
+  color: #fac51c;
+}
 #contacts4-6 FONT {
   color: #ffffff;
 }
