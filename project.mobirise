@@ -78,7 +78,7 @@
           },
           "title": "",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">品居租房<br></a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://pinjuchina.github.io/pinjujieshao/\" data-toolbar=\"-mbrBtnMove\">品居租房<br></a>"
         },
         {
           "_inherit": "msg-box5",
@@ -86,6 +86,11 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "SPAN": {
+              "font-size": "36px"
+            }
+          },
           "_anchor": "msg-box4-8",
           "_params": {
             "imageSize": "57",
@@ -132,12 +137,7 @@
           },
           "title": "全新的租房模式 <br><span style=\"font-weight: normal;\">有史以来 &nbsp;黏性最强的服务</span>",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "SPAN": {
-              "font-size": "36px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
